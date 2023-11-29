@@ -2,7 +2,7 @@
 
 ## Estudiante de Ingeneria de software
 
-![Imagen de Portada](https://files.oaiusercontent.com/file-mhFJEWOiU6eIju6SUIhXHAP8?se=2023-11-29T18%3A17%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De9145381-bf8f-4766-a38a-dd1628b2be35.webp&sig=qsDiimAuV9XBSY13/qyqEKih2tzfy/A%2B3cT1yZecERo%3D)
+![Imagen de Portada](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg)
 
 Soy un desarrollador full stack apasionado por crear aplicaciones web innovadoras. Tengo experiencia en React, Node.js, y bases de datos SQL.
 
