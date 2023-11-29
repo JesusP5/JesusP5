@@ -1,7 +1,7 @@
-<h1>👋 Hi, I’m @JesusP5</h1>
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning a lot of this, Actually I'm studying software engineering in the Universidad Autonoma de Queretaro.
-- 💞️ I’m looking to collaborate with many people, I want met software developers whom help me to learn more and more.
+#👋 Hola a todos, Soy Jesus Alejandrooo
+### Actualmente soy estudiante de ingenieria de software en la Universidad Autonoma de Queretaro
+### Mis preferencias acerca de las tecnologías que me interesa especializarme son IA🤖, DATA SCIENCE📚 y también desarrollar aplicaciones
+####A lo largo de mi carrera he usado diversos lenguajes pero mi favotiyo es Python
 
 
 
