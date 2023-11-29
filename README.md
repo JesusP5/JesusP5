@@ -1,6 +1,6 @@
 #👋 Hola a todos, Soy Jesus Alejandrooo
-### Actualmente soy estudiante de ingenieria de software en la Universidad Autonoma de Queretaro
-### Mis preferencias acerca de las tecnologías que me interesa especializarme son IA🤖, DATA SCIENCE📚 y también desarrollar aplicaciones
+##Actualmente soy estudiante de ingenieria de software en la Universidad Autonoma de Queretaro
+###Mis preferencias acerca de las tecnologías que me interesa especializarme son IA🤖, DATA SCIENCE📚 y también desarrollar aplicaciones
 ####A lo largo de mi carrera he usado diversos lenguajes pero mi favotiyo es Python
 
 
