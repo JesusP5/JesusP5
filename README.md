@@ -12,7 +12,7 @@ Actualmente estoy estudiando ingeniería de software 🖥️ en la UAQ. Estoy cu
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://onaircode.com/wp-content/uploads/2018/07/python.jpg"/>
+
 
 ## 🌱 Currently Learning Technologies
 
